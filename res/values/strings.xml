@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">VT Parking</string>
+    <string name="title_home">Home</string>
+    <string name="title_Discover">Discover</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_Me">Me</string>
+
+
+    <string-array name="User">
+        <item>History</item>
+        <item>Sign In</item>
+        <item>Sign Out</item>
+        <item>Sign Up</item>
+    </string-array>
+
+
+    <string-array name="History">
+        <item>History1</item>
+        <item>History2</item>
+        <item>History3</item>
+        <item>History4</item>
+        <item>History5</item>
+        <item>History6</item>
+        <item>History7</item>
+        <item>History8</item>
+        <item>History9</item>
+        <item>History10</item>
+        <item>History11</item>
+        <item>History12</item>
+    </string-array>
+
+    <string-array name="ParkingLot">
+        <item>Perry Street Garage (C/G)</item>
+        <item>North End Center Garage (C/G/F/S)</item>
+        <item>Prices Fork Lot #5 (C/G)</item>
+        <item>Prices Fork Lot #6 (C/G)</item>
+        <item>Squires Lot (C/G/F/S)</item>
+        <item>Coliseum Lot (C/G)</item>
+        <item>Duck Pond Drive Lot (C/G)</item>
+        <item>Smithfield Road Lot (C/G)</item>
+        <item>Litton-Reaves Lot (C/G)</item>
+        <item>Perry Street Lot #1 (F/S)</item>
+        <item>Perry Street Lot #2 (F/S)</item>
+        <item>Perry Street Lot #3 (F/S)</item>
+        <item>Lower Stanger Lot (F/S)</item>
+        <item>Sub Station Lot (F/S)</item>
+        <item>Pamplin Lot (F/S)</item>
+        <item>Derring Lot (F/S)</item>
+
+    </string-array>
+
+    <string-array name="ParkingLotLongitude">
+        <item>37.231338</item>
+        <item>37.233947</item>
+        <item>37.231776</item>
+        <item>37.230799</item>
+        <item>37.229215</item>
+        <item>37.222137</item>
+        <item>37.221662</item>
+        <item>37.223012</item>
+        <item>37.222116</item>
+        <item>P37.230249</item>
+        <item>37.230813</item>
+        <item>37.231690</item>
+        <item>37.232562</item>
+        <item>37.232152</item>
+        <item>37.228793</item>
+        <item>37.229417</item>
+
+    </string-array>
+
+    <string-array name="ParkingLotLatitude">
+        <item>-80.426483</item>
+        <item>-80.420496</item>
+        <item>-80.426953</item>
+        <item>-80.428169</item>
+        <item>-80.417045</item>
+        <item>-80.420194</item>
+        <item>-80.428315</item>
+        <item>-80.429266</item>
+        <item>-80.426817</item>
+        <item>-80.427410</item>
+        <item>-80.425842</item>
+        <item>-80.425003</item>
+        <item>-80.423313</item>
+        <item>-80.422729</item>
+        <item>-80.426512</item>
+        <item>-80.426546</item>
+
+    </string-array>
+
+    <string-array name="Image_parkingLot">
+        <item>@drawable/perry_street</item>
+        <item>@drawable/north_end_center</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/coliseum_lot</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/perry_street</item>
+        <item>@drawable/perry_street</item>
+    </string-array>
+
+    <string-array name="ParkingSpot">
+        <item>ParkingSpot1</item>
+        <item>ParkingSpot2</item>
+        <item>ParkingSpot3</item>
+        <item>ParkingSpot4</item>
+        <item>ParkingSpot5</item>
+        <item>ParkingSpot6</item>
+        <item>ParkingSpot7</item>
+        <item>ParkingSpot8</item>
+        <item>ParkingSpot9</item>
+        <item>ParkingSpot10</item>
+        <item>ParkingSpot11</item>
+        <item>ParkingSpot12</item>
+        <item>ParkingSpot13</item>
+        <item>ParkingSpot14</item>
+        <item>ParkingSpot15</item>
+        <item>ParkingSpot16</item>
+    </string-array>
+
+    <string-array name="Image_parkingSpot">
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+        <item>@drawable/spot</item>
+    </string-array>
+
+    <string-array name="ParkingLotSpinner">
+        <item>Time</item>
+        <item>Floor</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
